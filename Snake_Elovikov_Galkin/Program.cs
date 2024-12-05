@@ -12,7 +12,7 @@ using Newtonsoft.Json;
 
 namespace Snake_Elovikov_Galkin
 {
-	internal class Program
+	public class Program
 	{
 		// Еловиков Степан и Галкин Никита ИСП-21-2
 		public static List<Leaders> leaders = new List<Leaders>();
